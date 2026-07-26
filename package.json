@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/array-take",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Take a validated number of values from the start of an array.",
   "keywords": [
     "array",
